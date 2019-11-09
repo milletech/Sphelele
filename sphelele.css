@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.myDiv {
+    background-color: #ff99cc;
+    padding: 20px;
+    margin-top: 5px;
+    border-radius: 5px;
+    border: solid #555 2px;
+    color: #555;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#myList li {
+    text-align: center;
+    list-style-type: none;
+    font-size: 20px;
+    margin: 0px;
+    background-color: #ffffe6;
+    border-radius: 3px;
+}
+
+#myList li a {
+    font-size: 20px;
+    margin: 0px;
+}
+
+#input {
+    outline: none!important;
+}
