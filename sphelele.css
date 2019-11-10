@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+body {
+    background-color: lightblue!important;
+}
+
 .myDiv {
     background-color: #ff99cc;
     padding: 20px;
