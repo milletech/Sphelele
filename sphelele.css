@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: lightblue!important;
+    background-color: darkgoldenrod!important;
 }
 
 .myDiv {
@@ -45,4 +45,8 @@ body {
 
 .first {
     background-color: coral;
+}
+
+.second {
+    background-color: darkgray;
 }
