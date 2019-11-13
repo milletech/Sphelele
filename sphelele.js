@@ -12,4 +12,4 @@ $(document).ready(function() {
     })
 })
 
-console.log("This the fourth feature of the git app");
+console.log("THis is my home page");
