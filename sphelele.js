@@ -13,3 +13,4 @@ $(document).ready(function() {
 })
 
 console.log("THis is my home page");
+console.log("This is the sign in page for the app");
