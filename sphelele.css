@@ -2,10 +2,11 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    color: #f4f4f4;
 }
 
 body {
-    background-color: rgb(190, 156, 83)!important;
+    background-color: steelblue!important;
 }
 
 .myDiv {
